@@ -48,6 +48,15 @@ namespace fizzbuzzManager
             return results;
         }
 
+        
+        /// <summary>
+        /// Returns a list of type string representing each number between a given start number an end number, or a particular phrase based on the divisibility of the number value passed.
+        /// 
+        /// </summary>
+        /// <param name="start">starting number</param>
+        /// <param name="end">ending number</param>
+        /// <param name="combos">IDictionary of numbers and associated phrases to replace numbers if any give number is divisible by the passed value.</param>
+        /// <returns></returns>
         public List<string> GetFizzBuzzCustomResults(short start, short end, IDictionary<short,string> combos)
         {
 
