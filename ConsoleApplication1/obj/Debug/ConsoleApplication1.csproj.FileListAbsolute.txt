@@ -1,0 +1,8 @@
+c:\localdev\fizzbuzzManager\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\localdev\fizzbuzzManager\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\localdev\fizzbuzzManager\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\localdev\fizzbuzzManager\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\localdev\fizzbuzzManager\ConsoleApplication1\bin\Debug\fizzbuzzManager.dll
+c:\localdev\fizzbuzzManager\ConsoleApplication1\bin\Debug\fizzbuzzManager.pdb
+c:\localdev\fizzbuzzManager\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\localdev\fizzbuzzManager\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

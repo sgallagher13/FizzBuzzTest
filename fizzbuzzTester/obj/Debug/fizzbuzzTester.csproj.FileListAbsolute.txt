@@ -1,0 +1,7 @@
+c:\localdev\fizzbuzzManager\fizzbuzzTester\bin\Debug\fizzbuzzTester.dll
+c:\localdev\fizzbuzzManager\fizzbuzzTester\bin\Debug\fizzbuzzTester.pdb
+c:\localdev\fizzbuzzManager\fizzbuzzTester\bin\Debug\fizzbuzzManager.dll
+c:\localdev\fizzbuzzManager\fizzbuzzTester\bin\Debug\fizzbuzzManager.pdb
+c:\localdev\fizzbuzzManager\fizzbuzzTester\obj\Debug\fizzbuzzTester.csprojResolveAssemblyReference.cache
+c:\localdev\fizzbuzzManager\fizzbuzzTester\obj\Debug\fizzbuzzTester.dll
+c:\localdev\fizzbuzzManager\fizzbuzzTester\obj\Debug\fizzbuzzTester.pdb

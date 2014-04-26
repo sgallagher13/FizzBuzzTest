@@ -1,0 +1,5 @@
+c:\localdev\fizzbuzzManager\fizzbuzzManager\bin\Debug\fizzbuzzManager.dll
+c:\localdev\fizzbuzzManager\fizzbuzzManager\bin\Debug\fizzbuzzManager.pdb
+c:\localdev\fizzbuzzManager\fizzbuzzManager\obj\Debug\fizzbuzzManager.dll
+c:\localdev\fizzbuzzManager\fizzbuzzManager\obj\Debug\fizzbuzzManager.pdb
+c:\localdev\fizzbuzzManager\fizzbuzzManager\obj\Debug\fizzbuzzManager.csprojResolveAssemblyReference.cache
